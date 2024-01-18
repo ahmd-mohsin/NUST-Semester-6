@@ -23,7 +23,7 @@ Clone the repository to your local machine using the following command:
     https://github.com/ahmd-mohsin/NUST-Semester-6.git
     ```
 
-    ## Project Structure
+## Project Structure
 The project is structured as follows:
 
 ```fish
