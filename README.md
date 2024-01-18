@@ -1,4 +1,4 @@
-# NUST-Semester-7
+# NUST-Semester-6
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [<img align="right" width="250" height="250" src="https://crystalpng.com/wp-content/uploads/2022/02/national-university.png"/>](https://nust.edu.pk/)
