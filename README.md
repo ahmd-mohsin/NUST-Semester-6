@@ -1,6 +1,8 @@
 # NUST-Semester-7
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+[<img align="right" width="250" height="250" src="https://crystalpng.com/wp-content/uploads/2022/02/national-university.png"/>](https://nust.edu.pk/)
+
 This repositiory contains my files for semester 6. It contains the following courses including my elective courses as follow:
 - Linear Control Systems
 - Digital Signal Processing
@@ -8,7 +10,7 @@ This repositiory contains my files for semester 6. It contains the following cou
 - Numerical Methods
 - Communication Systems
 
-[<img align="right" width="250" height="250" src="https://crystalpng.com/wp-content/uploads/2022/02/national-university.png"/>](https://nust.edu.pk/)
+
 
 
 
